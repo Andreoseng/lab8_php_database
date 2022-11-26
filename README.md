@@ -11,7 +11,7 @@ Matakuliah	: Pemrograman Web</b>
 <b>Langkah-langkah praktikum</b>
 
 1.	Menjalankan mysql server dengan aplikasi xampp, kemudian start apache dan mysql.
-![image](ss/ss12.png) 
+![image](ss/12.png) 
 
 2.	Akses mysql Client menggunakan PHP MyAdmin melalui browser dengan link http://localhost/phpmyadmin/ 
  ![image](ss/ss1.png)
