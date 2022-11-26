@@ -39,12 +39,11 @@ harga_jual decimal(10,0),
 stok int(4)
 
 );
- 
- ![image](ss/ss3.png)
+
 
 5.	Kemudian tambahkan data pada tabel data_barang.
 
- ![image](ss/ss4.png)
+ ![image](ss/ss3.png)
 
 6.	Tampilkan field dan record tabel dengan query SELECT * FROM data_barang;
 
@@ -61,11 +60,13 @@ http://localhost/lab8_php_database/
 ![image](ss/ss6.png)
 
 9.	Membuat file koneksi dengan ekstension php dan beri nama dengan koneksi.php pada folder lab8_php_database.
+
 10.	Buka melalui browser untuk melakukan uji koneksi database, jika koneksi berhasil akan muncul pesan koneksi berhasil melalui perintah echo “koneksi berhasil”;
  
 ![image](ss/ss7.png)
 
 11.	Disini saya akan mencoba dengan mengkombinasi antara CSS dan Bootstrap 5 yang telah saya simpan pada folder lab8_php_database
+
 12.	Membuat file Read dengan ekstension php dan beri nama dengan index.php pada folder lab8_php_database.
 Simpan dan buka pada browser dengan link localhost/lab8_php_database/index.php
 ![image](ss/ss9.png)
