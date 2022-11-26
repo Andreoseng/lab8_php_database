@@ -69,14 +69,13 @@ http://localhost/lab8_php_database/
 
 12.	Membuat file Read dengan ekstension php dan beri nama dengan index.php pada folder lab8_php_database.
 Simpan dan buka pada browser dengan link localhost/lab8_php_database/index.php
-![image](ss/ss9.png)
 
 13.	Membuat file tambah data (create) dengan ekstension php dan beri nama dengan tambah.php pada folder lab8_php_database.
 Simpan dan buka pada browser dengan klik tombol tambah barang atau dengan link localhost/lab8_php_database/tambah.php
 Saya mencoba melakukan penambahan barang seperti pada gambar diatas, kemudian simpan dan lihat hasilnya.
-![image](ss/ss10.png)
+![image](ss/ss9.png)
 14.	Membuat file ubah data (update) dengan ekstension php dan beri nama dengan ubah.php pada folder lab8_php_database.
 Simpan dan buka pada browser dengan klik tombol ubah atau dengan link localhost/lab8_php_database/ubah.php
 Disini saya melakukan perubahan data pada  harga barang dan stok barang, kemudian simpan dan lihat hasilnya.
  
-![image](ss/ss11.png)
+![image](ss/ss10.png)
